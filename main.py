@@ -87,6 +87,6 @@ class Order:
 if __name__ == "__main__":
     order_url = "http://nourish.me/api/v1/bulk/order"
     menu_url = "https://nourish.me/api/v1/menu"
-    xml_file = "add-path-of-the-xml-file-here"
+    xml_file = "add-path-of-the-xml-file-here.xml"
     schema_validator_file = "schema.xsd"
     Order(order_url, menu_url, xml_file, schema_validator_file).order()
