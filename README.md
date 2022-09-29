@@ -1,4 +1,4 @@
-# Momox food order system
+# Food order system
 
 ## Instructions
 
